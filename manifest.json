@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "VinUni SIS Calendar Exporter",
+  "version": "1.0",
+  "description": "Export SIS timetable to .ics calendar file",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://sis.vinuni.edu.vn/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
+
