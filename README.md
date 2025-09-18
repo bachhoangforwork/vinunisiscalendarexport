@@ -1,7 +1,6 @@
 An extension to download the timetable at https://sis.vinuni.edu.vn
 
-//This extension is based on sis-calendar-scraper made by nhathuy07
-//You can view his project here: https://github.com/nhathuy07/sis-calendar-scraper
+//This extension is based on sis-calendar-scraper made by nhathuy07: https://github.com/nhathuy07/sis-calendar-scraper
 
 How to use the extension:
 - Install the file and unzip it.
@@ -12,5 +11,6 @@ How to use the extension:
 
 Maybe work for others SIS:
 - Check out by using the extension on the calendar website and adjust the date format in content.js.
+
 
 
