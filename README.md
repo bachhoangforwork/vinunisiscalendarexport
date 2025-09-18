@@ -8,5 +8,9 @@ How to use the extension:
 - Access chrome://extensions and enable Developer mode(Right-top corner).
 - Load Unpacked(choose the folder that contain the extension).
 - Log in to sis website and go to My Calendar.
-- Click on extension and Export button.
+- Click on the extension and Export button.
+
+Maybe work for others SIS:
+- Check out by using the extension on the calendar website and adjust the date format in content.js.
+
 
